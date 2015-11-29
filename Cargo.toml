@@ -1,0 +1,13 @@
+[package]
+name = "irc_log"
+version = "0.1.0"
+authors = ["Sunrin SHIMURA (keen) <3han5chou7@gmail.com>"]
+
+[dependencies]
+threadpool = "0.1"
+rusqlite = "0.4.0"
+r2d2_sqlite = "0.0.3"
+r2d2 = "0.6.1"
+time = "*"
+log = "0.3.3"
+env_logger = "0.3.2"
